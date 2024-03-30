@@ -1,4 +1,4 @@
-# GOJO
+# GOJO SATORU
 Audio player using rust
 
 ## Resource
